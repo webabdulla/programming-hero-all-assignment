@@ -1,0 +1,11 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+.w-25 {
+    border: 2px solid #000;
+}
+/* @media (min-width: 576px) { 
+
+} */
